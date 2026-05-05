@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left">My major is Geoinformatics</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
