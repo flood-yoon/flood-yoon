@@ -59,7 +59,7 @@ Beyond my research, I am actively exploring various fields, including IoT system
 🔹 Analysis of Spatial Characteristics in River Flow Response to Precipitation<br>
 - Flood condition modeling based on precipitation–runoff relationship<br>
 - Focus on Curve Number & Lag-Time<br>
-- Pearson correlation & statistical significance (P-value) analysis<br><br>
+- Pearson correlation & statistical significance (P-value, Pearson r, Moran's I) analysis<br><br>
 
 👉 More projects will be continuously updated.
 </p>
@@ -70,7 +70,7 @@ Beyond my research, I am actively exploring various fields, including IoT system
 
 <p align="left">
 • Developing data-driven travel recommendation system (Graduation Project)<br>
-• Integrating spatial data with real-time information<br>
+• Integrating spatial data with given information<br>
 • Improving statistical modeling and analysis accuracy
 </p>
 
