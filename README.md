@@ -28,10 +28,9 @@ Beyond my research, I am actively exploring various fields, including IoT system
 <h2 align="left">🚀 What I Do</h2>
 
 <p align="left">
-• Hydrological Modeling (Curve Number, Lag-Time)<br>
-• Spatial Data Analysis (GIS-based analysis)<br>
-• Statistical Analysis (Correlation, P-value)<br>
-• Research-oriented MATLAB Programming
+• Hydrological Modeling (HEC-HMS)<br>
+• Spatial Data Analysis (ArcGIS, MatLab)<br>
+• Statistical Analysis (MatLab)<br>
 </p>
 
 ---
