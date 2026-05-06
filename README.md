@@ -11,13 +11,16 @@ Hydrology · Spatial Data Analysis · Modeling
 
 <p align="left">
 Hello, I am an undergraduate student majoring in Geoinformatics at the University of Seoul.<br>
-My primary interests lie in spatial data analysis and hydrological modeling, with a focus on precipitation–runoff relationships and spatial characteristics.<br><br>
+My primary interests lie in spatial data analysis and hydrological modeling, with a focus on precipitation–runoff relationships and spatial characteristics.<br>
+Beyond my research, I am actively exploring various fields, including IoT systems using Homebridge and game development with Unity.<br><br>
 
 はじめまして。ソウル市立大学 空間情報工学科に在学中の学部生です。<br>
-空間データ分析および水文モデリングに関心を持ち、降雨‐流出関係や空間特性の分析を中心に研究を行っています。<br><br>
+空間データ分析および水文モデリングに関心を持ち、降雨‐流出関係や空間特性の分析を中心に研究を行っています。<br>
+その他にも、Homebridgeを活用したIoT構築やUnityによるゲーム制作など、幅広い分野に興味を持って取り組んでいます。<br><br>
 
 안녕하십니까, 저는 서울시립대학교 공간정보공학과에 재학 중인 학부생입니다.<br>
-공간 데이터 기반 분석과 수문 모델링에 관심을 가지고 있으며, 강수-유출 관계 및 공간적 특성 분석을 중심으로 연구를 진행하고 있습니다.
+공간 데이터 기반 분석과 수문 모델링에 관심을 가지고 있으며, 강수-유출 관계 및 공간적 특성 분석을 중심으로 연구를 진행하고 있습니다.<br>
+이외에도 홈브릿지를 활용한 IoT나 Unity를 활용한 게임제작 등 다양한 분야에 관심이 있습니다.
 </p>
 
 ---
