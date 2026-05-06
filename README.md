@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Su Hong</h1>
+<h1 align="left">Su Hong Yoon</h1>
 
 <p align="left">
 Geoinformatics Undergraduate @ University of Seoul<br>
