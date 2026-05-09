@@ -61,6 +61,10 @@ Beyond my research, I am actively exploring various fields, including IoT system
 - Focus on Curve Number & Lag-Time<br>
 - Pearson correlation & statistical significance (P-value, Pearson r, Moran's I) analysis<br><br>
 
+🔹 Helicopter-Firefighting-Simulation
+- Simulation game based on C#(Unity)<br>
+- I’m actively working on it<br>
+
 👉 More projects will be continuously updated.
 </p>
 
