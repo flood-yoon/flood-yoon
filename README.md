@@ -38,7 +38,7 @@ Alongside my research, I am developing practical software projects including a r
 - Member, Korean Society of Surveying, Geodesy, Photogrammetry and Cartography
 - Member, Korean Society of Geographic Information Studies
 - Presenter, Korean Society of Geographic Information Studies Conference
-- Participant (upcoming), International Symposium @ Tokyo University of Science
+- Participant (upcoming), IAG'i International Conference on Geomorphology @ Tokyo Institute of Science (Ookayama Campus)
 ---
  
 ## Current Projects
