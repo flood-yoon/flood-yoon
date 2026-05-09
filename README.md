@@ -3,6 +3,7 @@
   Geoinformatics Undergraduate @ University of Seoul<br>
   Spatial Data Analysis · Hydrological Modeling · Systems Development
 </p>
+
 ---
  
 ## About Me
@@ -27,6 +28,7 @@ Alongside my research, I am developing practical software projects including a r
 현재 강수에 대한 하천 유출 응답의 공간적 특성을 분석하는 졸업논문을 작성 중이며, GIS 및 통계 기법을 활용하여 CN과 Lag-Time을 중심으로 연구를 진행하고 있습니다.<br>
 연구 외에도 원격 데스크탑 툴 개발과 Unity 게임 제작 프로젝트에 참여하고 있습니다.
 </details>
+
 ---
  
 ## Research & Activities
