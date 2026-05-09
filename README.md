@@ -45,7 +45,7 @@ Alongside my research, I am developing practical software projects including a r
  
 | Project | Description | Stack |
 |---|---|---|
-| Graduation Research | CN & LagTime spatial analysis, statistical modeling | MATLAB, ArcGIS, R |
+| Graduation Research | CN & LagTime spatial analysis, statistical modeling | MATLAB, Python, R |
 | RemoteGuard-CPP | Remote desktop monitoring & control tool | C++ |
 | Helicopter Firefighting Simulation | 3D firefighting simulation game | C#, Unity |
  
